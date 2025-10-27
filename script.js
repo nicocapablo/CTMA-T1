@@ -421,26 +421,6 @@ const preguntas = [
   correcta: "a"
 },
 {
-  texto: "Quin any es va celebrar la Conferència de les Nacions Unides sobre el Medi Humà a Estocolm?",
-  opciones: [
-    "a) 1968",
-    "b) 1972",
-    "c) 1987",
-    "d) 1992"
-  ],
-  correcta: "b"
-},
-{
-  texto: "Quina va ser la primera declaració internacional que reconeix el dret humà a un medi ambient saludable?",
-  opciones: [
-    "a) La Declaració d’Estocolm de 1972",
-    "b) L’Informe Brundtland de 1987",
-    "c) La Carta de la Terra",
-    "d) El Protocol de Kyoto"
-  ],
-  correcta: "a"
-},
-{
   texto: "Quin any es va publicar l’Informe Brundtland?",
   opciones: [
     "a) 1980",
@@ -641,16 +621,6 @@ const preguntas = [
   correcta: "a"
 },
 {
-  texto: "Quin document de la UE estableix una visió a llarg termini per a la política ambiental europea?",
-  opciones: [
-    "a) Els Programes d’Acció Ambiental (PAA)",
-    "b) L’Agenda 21",
-    "c) El Pacte Verd Europeu",
-    "d) El Tractat de Maastricht"
-  ],
-  correcta: "a"
-},
-{
   texto: "Quin any es va aprovar el VI Programa d’Acció Ambiental de la UE?",
   opciones: [
     "a) 1998",
@@ -697,26 +667,6 @@ const preguntas = [
     "b) 2019",
     "c) 2020",
     "d) 2022"
-  ],
-  correcta: "b"
-},
-{
-  texto: "Quina és la funció principal de l’Agència Europea de Medi Ambient (EEA)?",
-  opciones: [
-    "a) Proporcionar informació ambiental objectiva i independent per a la presa de decisions",
-    "b) Elaborar lleis ambientals vinculants",
-    "c) Controlar les emissions dels Estats membres",
-    "d) Gestionar el pressupost del Pacte Verd"
-  ],
-  correcta: "a"
-},
-{
-  texto: "On té la seva seu l’Agència Europea de Medi Ambient?",
-  opciones: [
-    "a) Brussel·les",
-    "b) Copenhaguen",
-    "c) Estrasburg",
-    "d) Berlín"
   ],
   correcta: "b"
 },
@@ -861,6 +811,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("btnC").onclick = () => responder("c");
   document.getElementById("btnD").onclick = () => responder("d");
 });
+
 
 
 

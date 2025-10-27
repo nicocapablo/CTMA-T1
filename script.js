@@ -400,16 +400,6 @@ const preguntas = [
   ],
   correcta: "a"
 },
-  {
-  texto: "Quin organisme va encarregar l’informe 'Els Límits del Creixement' (1972)?",
-  opciones: [
-    "a) L’ONU",
-    "b) El Club de Roma",
-    "c) La Unió Europea",
-    "d) L’OCDE"
-  ],
-  correcta: "b"
-},
 {
   texto: "Qui va dirigir l’informe 'Els Límits del Creixement' del Club de Roma?",
   opciones: [
@@ -439,16 +429,6 @@ const preguntas = [
     "d) 1992"
   ],
   correcta: "b"
-},
-{
-  texto: "Quin va ser el principal resultat de la Conferència d’Estocolm (1972)?",
-  opciones: [
-    "a) La creació del Programa de Nacions Unides per al Medi Ambient (PNUMA)",
-    "b) L’Acord de París",
-    "c) L’Agenda 21",
-    "d) El Protocol de Kyoto"
-  ],
-  correcta: "a"
 },
 {
   texto: "Quina va ser la primera declaració internacional que reconeix el dret humà a un medi ambient saludable?",
@@ -601,7 +581,7 @@ const preguntas = [
   correcta: "a"
 },
 {
-  texto: "Quina és la causa principal de la problemàtica ambiental actual segons els apunts de la Sessió 1?",
+  texto: "Quina és la causa principal de la problemàtica ambiental actual?",
   opciones: [
     "a) El model de producció i consum insostenible",
     "b) L’augment de la població mundial",
@@ -701,16 +681,6 @@ const preguntas = [
   correcta: "a"
 },
 {
-  texto: "Quin document va substituir el VI Programa d’Acció Ambiental?",
-  opciones: [
-    "a) El VII Programa d’Acció Ambiental (2013–2020)",
-    "b) L’Acord de París",
-    "c) El Tractat de Lisboa",
-    "d) La Carta de la Terra"
-  ],
-  correcta: "a"
-},
-{
   texto: "Quin és el títol del VII Programa d’Acció Ambiental de la UE?",
   opciones: [
     "a) Viure bé dins els límits del nostre planeta",
@@ -721,16 +691,6 @@ const preguntas = [
   correcta: "a"
 },
 {
-  texto: "Quin any entra en vigor el VII Programa d’Acció Ambiental?",
-  opciones: [
-    "a) 2012",
-    "b) 2013",
-    "c) 2015",
-    "d) 2020"
-  ],
-  correcta: "b"
-},
-{
   texto: "Quin any va començar el Pacte Verd Europeu (Green Deal)?",
   opciones: [
     "a) 2015",
@@ -739,26 +699,6 @@ const preguntas = [
     "d) 2022"
   ],
   correcta: "b"
-},
-{
-  texto: "Quin és l’objectiu principal del Pacte Verd Europeu?",
-  opciones: [
-    "a) Aconseguir la neutralitat climàtica el 2050",
-    "b) Substituir l’Acord de París",
-    "c) Eliminar els impostos ambientals",
-    "d) Crear un mercat únic digital"
-  ],
-  correcta: "a"
-},
-{
-  texto: "Quin organisme coordina les polítiques ambientals dins la Unió Europea?",
-  opciones: [
-    "a) La Direcció General de Medi Ambient (DG ENV)",
-    "b) El Parlament Europeu",
-    "c) L’Agència Espacial Europea",
-    "d) L’Eurostat"
-  ],
-  correcta: "a"
 },
 {
   texto: "Quina és la funció principal de l’Agència Europea de Medi Ambient (EEA)?",
@@ -921,6 +861,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("btnC").onclick = () => responder("c");
   document.getElementById("btnD").onclick = () => responder("d");
 });
+
 
 
 

@@ -581,26 +581,6 @@ const preguntas = [
   correcta: "a"
 },
 {
-  texto: "Quin any es va crear el Programa de Nacions Unides per al Medi Ambient (PNUMA)?",
-  opciones: [
-    "a) 1970",
-    "b) 1972",
-    "c) 1980",
-    "d) 1987"
-  ],
-  correcta: "b"
-},
-{
-  texto: "Quin va ser el lema de la Conferència d’Estocolm (1972)?",
-  opciones: [
-    "a) Only One Earth",
-    "b) Think global, act local",
-    "c) Save our planet",
-    "d) Our common future"
-  ],
-  correcta: "a"
-},
-{
   texto: "Quin any es va celebrar la Cimera Mundial sobre Desenvolupament Sostenible a Johannesburg?",
   opciones: [
     "a) 1997",
@@ -619,56 +599,6 @@ const preguntas = [
     "d) Definir l’Acord de París"
   ],
   correcta: "a"
-},
-{
-  texto: "Quin any es va aprovar el VI Programa d’Acció Ambiental de la UE?",
-  opciones: [
-    "a) 1998",
-    "b) 2001",
-    "c) 2005",
-    "d) 2010"
-  ],
-  correcta: "b"
-},
-{
-  texto: "Quins eren els àmbits prioritaris del VI Programa d’Acció Ambiental?",
-  opciones: [
-    "a) Canvi climàtic, biodiversitat, medi ambient i salut, i recursos naturals",
-    "b) Energia, transport, indústria i comerç",
-    "c) Agricultura, pesca i turisme",
-    "d) Innovació, digitalització i economia"
-  ],
-  correcta: "a"
-},
-{
-  texto: "Quina és la durada del VI Programa d’Acció Ambiental de la UE?",
-  opciones: [
-    "a) 2001–2010",
-    "b) 2005–2015",
-    "c) 1990–2000",
-    "d) 2012–2020"
-  ],
-  correcta: "a"
-},
-{
-  texto: "Quin és el títol del VII Programa d’Acció Ambiental de la UE?",
-  opciones: [
-    "a) Viure bé dins els límits del nostre planeta",
-    "b) Un futur comú sostenible",
-    "c) Europa 2030 verda",
-    "d) Medi ambient i progrés econòmic"
-  ],
-  correcta: "a"
-},
-{
-  texto: "Quin any va començar el Pacte Verd Europeu (Green Deal)?",
-  opciones: [
-    "a) 2015",
-    "b) 2019",
-    "c) 2020",
-    "d) 2022"
-  ],
-  correcta: "b"
 },
 {
   texto: "Quin principi promou actuar abans que hi hagi danys irreversibles al medi?",
@@ -801,6 +731,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("btnC").onclick = () => responder("c");
   document.getElementById("btnD").onclick = () => responder("d");
 });
+
 
 
 

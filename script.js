@@ -399,8 +399,407 @@ const preguntas = [
     "d) Augmentar les emissions de CO₂ per sobre del 1990"
   ],
   correcta: "a"
+},
+  {
+  texto: "Quin organisme va encarregar l’informe 'Els Límits del Creixement' (1972)?",
+  opciones: [
+    "a) L’ONU",
+    "b) El Club de Roma",
+    "c) La Unió Europea",
+    "d) L’OCDE"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Qui va dirigir l’informe 'Els Límits del Creixement' del Club de Roma?",
+  opciones: [
+    "a) Donella Meadows",
+    "b) Rachel Carson",
+    "c) Al Gore",
+    "d) Jane Goodall"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina era la conclusió principal de l’informe 'Els Límits del Creixement'?",
+  opciones: [
+    "a) Que el creixement econòmic il·limitat no és sostenible a llarg termini",
+    "b) Que els recursos naturals són infinits",
+    "c) Que la contaminació no tenia impacte significatiu",
+    "d) Que el progrés tecnològic resol tots els problemes ambientals"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any es va celebrar la Conferència de les Nacions Unides sobre el Medi Humà a Estocolm?",
+  opciones: [
+    "a) 1968",
+    "b) 1972",
+    "c) 1987",
+    "d) 1992"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quin va ser el principal resultat de la Conferència d’Estocolm (1972)?",
+  opciones: [
+    "a) La creació del Programa de Nacions Unides per al Medi Ambient (PNUMA)",
+    "b) L’Acord de París",
+    "c) L’Agenda 21",
+    "d) El Protocol de Kyoto"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina va ser la primera declaració internacional que reconeix el dret humà a un medi ambient saludable?",
+  opciones: [
+    "a) La Declaració d’Estocolm de 1972",
+    "b) L’Informe Brundtland de 1987",
+    "c) La Carta de la Terra",
+    "d) El Protocol de Kyoto"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any es va publicar l’Informe Brundtland?",
+  opciones: [
+    "a) 1980",
+    "b) 1987",
+    "c) 1992",
+    "d) 1997"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Com es titulava l’Informe Brundtland de 1987?",
+  opciones: [
+    "a) El nostre futur comú",
+    "b) Els límits del creixement",
+    "c) Futur sostenible",
+    "d) Un món verd"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any es va celebrar la Cimera de la Terra a Rio de Janeiro?",
+  opciones: [
+    "a) 1987",
+    "b) 1990",
+    "c) 1992",
+    "d) 2000"
+  ],
+  correcta: "c"
+},
+{
+  texto: "Quin document va sorgir de la Cimera de Rio de 1992 per promoure el desenvolupament sostenible local?",
+  opciones: [
+    "a) L’Agenda 21",
+    "b) El Protocol de Kyoto",
+    "c) L’Informe Meadows",
+    "d) L’Acord de París"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina és la frase associada a l’Agenda 21?",
+  opciones: [
+    "a) Think global, act local",
+    "b) Save the Earth",
+    "c) One planet, one future",
+    "d) Protect our nature"
+  ],
+  correcta: "a"
+},
+{
+  texto: "En quin any es va aprovar el Primer Programa d’Acció Ambiental de la Comunitat Europea?",
+  opciones: [
+    "a) 1973",
+    "b) 1980",
+    "c) 1987",
+    "d) 1995"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin és l’objectiu dels Programes d’Acció Ambiental de la UE?",
+  opciones: [
+    "a) Establir les prioritats ambientals de la política europea per períodes concrets",
+    "b) Substituir la legislació ambiental estatal",
+    "c) Regular el comerç d’energia renovable",
+    "d) Controlar el mercat del CO₂"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quan es va adoptar el Protocol de Kyoto?",
+  opciones: [
+    "a) 1992",
+    "b) 1995",
+    "c) 1997",
+    "d) 2005"
+  ],
+  correcta: "c"
+},
+{
+  texto: "Quin era l’objectiu principal del Protocol de Kyoto?",
+  opciones: [
+    "a) Reduir les emissions de gasos d’efecte hivernacle",
+    "b) Prohibir els aerosols",
+    "c) Reduir la contaminació acústica",
+    "d) Promoure el comerç internacional"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quan va entrar en vigor el Protocol de Kyoto?",
+  opciones: [
+    "a) 1997",
+    "b) 2000",
+    "c) 2005",
+    "d) 2010"
+  ],
+  correcta: "c"
+},
+{
+  texto: "Quin país va permetre que el Protocol de Kyoto entrés en vigor en ratificar-lo?",
+  opciones: [
+    "a) Estats Units",
+    "b) Rússia",
+    "c) Espanya",
+    "d) Xina"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quan es va signar l’Acord de París sobre el clima?",
+  opciones: [
+    "a) 2005",
+    "b) 2012",
+    "c) 2015",
+    "d) 2018"
+  ],
+  correcta: "c"
+},
+{
+  texto: "Quin és l’objectiu principal de l’Acord de París (2015)?",
+  opciones: [
+    "a) Limitar l’augment de la temperatura global per sota dels 2 °C",
+    "b) Reduir el consum d’aigua potable",
+    "c) Prohibir els combustibles fòssils",
+    "d) Controlar la contaminació acústica"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina és la diferència principal entre el Protocol de Kyoto i l’Acord de París?",
+  opciones: [
+    "a) Kyoto establia objectius vinculants per països desenvolupats; París fixa compromisos voluntaris per tots",
+    "b) Kyoto tractava la biodiversitat; París tracta només residus",
+    "c) París només s’aplica a la UE",
+    "d) Kyoto és posterior a París"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina és la causa principal de la problemàtica ambiental actual segons els apunts de la Sessió 1?",
+  opciones: [
+    "a) El model de producció i consum insostenible",
+    "b) L’augment de la població mundial",
+    "c) El canvi climàtic natural",
+    "d) La rotació de la Terra"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin tipus de relació hi ha entre desenvolupament econòmic i medi ambient segons la visió clàssica?",
+  opciones: [
+    "a) De conflicte, ja que el creixement sol generar més pressió ambiental",
+    "b) De complementarietat absoluta",
+    "c) Cap relació directa",
+    "d) El medi ambient impulsa sempre el creixement"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any es va crear el Programa de Nacions Unides per al Medi Ambient (PNUMA)?",
+  opciones: [
+    "a) 1970",
+    "b) 1972",
+    "c) 1980",
+    "d) 1987"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quin va ser el lema de la Conferència d’Estocolm (1972)?",
+  opciones: [
+    "a) Only One Earth",
+    "b) Think global, act local",
+    "c) Save our planet",
+    "d) Our common future"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any es va celebrar la Cimera Mundial sobre Desenvolupament Sostenible a Johannesburg?",
+  opciones: [
+    "a) 1997",
+    "b) 2000",
+    "c) 2002",
+    "d) 2005"
+  ],
+  correcta: "c"
+},
+{
+  texto: "Quin va ser l’objectiu principal de la Cimera de Johannesburg (2002)?",
+  opciones: [
+    "a) Revisar i reforçar l’aplicació de l’Agenda 21",
+    "b) Reduir les emissions industrials",
+    "c) Crear el Protocol de Kyoto",
+    "d) Definir l’Acord de París"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin document de la UE estableix una visió a llarg termini per a la política ambiental europea?",
+  opciones: [
+    "a) Els Programes d’Acció Ambiental (PAA)",
+    "b) L’Agenda 21",
+    "c) El Pacte Verd Europeu",
+    "d) El Tractat de Maastricht"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any es va aprovar el VI Programa d’Acció Ambiental de la UE?",
+  opciones: [
+    "a) 1998",
+    "b) 2001",
+    "c) 2005",
+    "d) 2010"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quins eren els àmbits prioritaris del VI Programa d’Acció Ambiental?",
+  opciones: [
+    "a) Canvi climàtic, biodiversitat, medi ambient i salut, i recursos naturals",
+    "b) Energia, transport, indústria i comerç",
+    "c) Agricultura, pesca i turisme",
+    "d) Innovació, digitalització i economia"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina és la durada del VI Programa d’Acció Ambiental de la UE?",
+  opciones: [
+    "a) 2001–2010",
+    "b) 2005–2015",
+    "c) 1990–2000",
+    "d) 2012–2020"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin document va substituir el VI Programa d’Acció Ambiental?",
+  opciones: [
+    "a) El VII Programa d’Acció Ambiental (2013–2020)",
+    "b) L’Acord de París",
+    "c) El Tractat de Lisboa",
+    "d) La Carta de la Terra"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin és el títol del VII Programa d’Acció Ambiental de la UE?",
+  opciones: [
+    "a) Viure bé dins els límits del nostre planeta",
+    "b) Un futur comú sostenible",
+    "c) Europa 2030 verda",
+    "d) Medi ambient i progrés econòmic"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin any entra en vigor el VII Programa d’Acció Ambiental?",
+  opciones: [
+    "a) 2012",
+    "b) 2013",
+    "c) 2015",
+    "d) 2020"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quin any va començar el Pacte Verd Europeu (Green Deal)?",
+  opciones: [
+    "a) 2015",
+    "b) 2019",
+    "c) 2020",
+    "d) 2022"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quin és l’objectiu principal del Pacte Verd Europeu?",
+  opciones: [
+    "a) Aconseguir la neutralitat climàtica el 2050",
+    "b) Substituir l’Acord de París",
+    "c) Eliminar els impostos ambientals",
+    "d) Crear un mercat únic digital"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin organisme coordina les polítiques ambientals dins la Unió Europea?",
+  opciones: [
+    "a) La Direcció General de Medi Ambient (DG ENV)",
+    "b) El Parlament Europeu",
+    "c) L’Agència Espacial Europea",
+    "d) L’Eurostat"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quina és la funció principal de l’Agència Europea de Medi Ambient (EEA)?",
+  opciones: [
+    "a) Proporcionar informació ambiental objectiva i independent per a la presa de decisions",
+    "b) Elaborar lleis ambientals vinculants",
+    "c) Controlar les emissions dels Estats membres",
+    "d) Gestionar el pressupost del Pacte Verd"
+  ],
+  correcta: "a"
+},
+{
+  texto: "On té la seva seu l’Agència Europea de Medi Ambient?",
+  opciones: [
+    "a) Brussel·les",
+    "b) Copenhaguen",
+    "c) Estrasburg",
+    "d) Berlín"
+  ],
+  correcta: "b"
+},
+{
+  texto: "Quin principi ambiental estableix que 'qui contamina, paga'?",
+  opciones: [
+    "a) Principi de responsabilitat ambiental",
+    "b) Principi de precaució",
+    "c) Principi de subsidiarietat",
+    "d) Principi de correcció en origen"
+  ],
+  correcta: "a"
+},
+{
+  texto: "Quin principi promou actuar abans que hi hagi danys irreversibles al medi?",
+  opciones: [
+    "a) Principi de precaució",
+    "b) Principi de recuperació",
+    "c) Principi de reparació",
+    "d) Principi de subsidiarietat"
+  ],
+  correcta: "a"
 }
-  
 ];
 // --- FRASES DE ÁNIMO ---
 const frases_animo = [
@@ -522,5 +921,6 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("btnC").onclick = () => responder("c");
   document.getElementById("btnD").onclick = () => responder("d");
 });
+
 
 

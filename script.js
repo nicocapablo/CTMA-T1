@@ -671,16 +671,6 @@ const preguntas = [
   correcta: "b"
 },
 {
-  texto: "Quin principi ambiental estableix que 'qui contamina, paga'?",
-  opciones: [
-    "a) Principi de responsabilitat ambiental",
-    "b) Principi de precaució",
-    "c) Principi de subsidiarietat",
-    "d) Principi de correcció en origen"
-  ],
-  correcta: "a"
-},
-{
   texto: "Quin principi promou actuar abans que hi hagi danys irreversibles al medi?",
   opciones: [
     "a) Principi de precaució",
@@ -811,6 +801,7 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("btnC").onclick = () => responder("c");
   document.getElementById("btnD").onclick = () => responder("d");
 });
+
 
 
 
